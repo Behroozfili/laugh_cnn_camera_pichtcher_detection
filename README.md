@@ -1,0 +1,1 @@
+# laugh_cnn_camera_pichtcher_detection
